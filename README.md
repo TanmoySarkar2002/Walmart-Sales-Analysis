@@ -9,4 +9,4 @@ Data Management: Creating and managing tables to store detailed sales informatio
 Data Analysis: Querying the database to analyze sales trends, customer demographics, product performance, and other key metrics.
 
  
-The project employs SQL for data manipulation and analysis, focuses present findings and support data-driven decision-making.
+The project utilizes SQL for data manipulation and analysis, with a focus on presenting findings and supporting data-driven decision-making.
