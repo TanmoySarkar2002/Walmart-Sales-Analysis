@@ -1,3 +1,12 @@
-# Walmart-Sales-Analysis
+# Walmart_Sales_Data_Analysis
 
-The aim of this project is to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour etc.
+This project involves analyzing Walmart sales data to uncover insights into sales performance and customer behavior. The main objectives include:
+
+Database Creation: Setting up a database to store sales data.
+
+Data Management: Creating and managing tables to store detailed sales information, including invoice details, branch locations, customer types, product lines, pricing, and payment methods.
+
+Data Analysis: Querying the database to analyze sales trends, customer demographics, product performance, and other key metrics.
+
+ 
+The project employs SQL for data manipulation and analysis, focuses present findings and support data-driven decision-making.
